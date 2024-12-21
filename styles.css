@@ -1,0 +1,97 @@
+/*  #F9FAF8 - white  #1F2937 - dark blue   #3882F6 - light blue*/
+
+* {
+    box-sizing: border-box;
+    font-family: Roboto, serif;
+    color: #F9FAF8;
+    font-size: 18px;
+    font-weight: lighter;
+    margin: 0px;
+    padding: 0px;
+}
+
+.header, .main, .footer {
+    background-color: #1F2937;
+    margin: 0px;
+}
+
+li {
+    list-style: none;;
+}
+
+a {
+    text-decoration: none;
+    color: #F9FAF8;
+    
+}
+
+.information, .sign-up4 {
+    background-color: #F9FAF8;
+}
+
+.quote {
+    background-color: #E5E7EB;
+}
+
+.quote .text {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: black;
+}
+
+.quote .author {
+    font-weight: 900;
+    color: black;
+}
+
+.sign-up {
+    background-color: #3882F6;
+}
+
+.sign-up .text .title {
+    font-weight: 900;
+}
+
+.sign-up button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border: 2px solid #F9FAF8;
+    border-radius: 5px;
+}
+
+.header .logo {
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.main .text .title {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.main .text button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-width: 0px;
+    border-radius: 5px;
+}
+
+.main .image {
+    background-color: gray;
+} 
+
+.information .title {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.subtext {
+    color: #1F2937;
+}
+
+.images div .image {
+    border: 2px solid #3882F6;
+    border-radius: 5px;
+}
